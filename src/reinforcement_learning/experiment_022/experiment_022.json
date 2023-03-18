@@ -1,0 +1,14 @@
+{
+    "experiment_ID": "02",
+
+    "USE_CNN": false,
+    "STATE_HISTORY_LENGTH": 20,
+    "N_NEURONS": 128,
+    "N_FILTERS_CNN": 1,
+
+    "USE_WIND": true,
+    "USE_ACTUATOR_DIST": true,
+    "USE_SENSOR_DIST": true,
+    "ENABLE_RANDOM_STATE_INITIALIZATION": false
+
+}

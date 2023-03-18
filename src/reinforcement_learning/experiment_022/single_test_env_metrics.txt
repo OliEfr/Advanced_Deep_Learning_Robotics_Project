@@ -1,0 +1,13 @@
+Reward: 2967.8482216450266
+Number of early terminated environments: 0
+Indices of early terminated environments: Any[]
+Sum velocity error x: -216.2817912197756
+Sum velocity error y: -8.69543478801079
+Sum velocity error z: 159.10807170836588
+Sum of absolute velocity error x: 222.85074801631092
+Sum of absolute velocity error y: 74.64421905061612
+Sum of absolute velocity error z: 169.5423098962363
+Maximum absolute velocity error: 1.8703546153318105
+Average absolute velocity error per timestep: 0.5830677615020765
+Total thrust energy used: 1.2947454403871181
+Total flap energy used: 0.28303307346137413
