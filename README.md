@@ -1,4 +1,4 @@
-# Advanced Deep Learning for Robotics Project
+# Advanced Deep Learning for Robotics Project 🤖🚀
 
 This repository includes the results as well as the code for our project in the [Advanced Deep Learning for Robotics](https://bbaeuml.github.io/tum-adlr/adlr/index.html) course at TUM in WS2022/23.
 
