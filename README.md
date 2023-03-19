@@ -28,7 +28,7 @@ It is clearly visible, that using our approach the trajectory tracking performan
 
 
 ## The code
-This repository contains the simulation for the drone and the full reinforcement learning pipeline. Use the `run_experiment.jl` file to execute the RL-pipeline. This script will start the training process, evaluate the agent on test sets and save the resulting files automatically. Pass parameters to the `run_experiment.jl` file in order to define your experiments. Each experiment must have a separat folder in `src/reinforcement_learning`. In this folder must be a `.json`-file that defines the parameters for the experiment. All results for the experiment will be saved in the folder.
+This repository contains the simulation for the drone as well as the full reinforcement learning pipeline. Use the `src/reinforcement_learning/run_experiment.jl` file to execute the RL-pipeline. This script will start the training process, evaluate the agent on test sets and save the resulting files automatically. Pass parameters to the `run_experiment.jl` file in order to define your experiments. Instructions on how to run the file exactly can be found within the file. Each experiment must have a separat folder in `src/reinforcement_learning`. In this folder must be a `.json`-file that defines the parameters for the experiment. All results for the experiment will be saved in the folder.
 
 The code that defines the RL-pipeline is located in `src\reinforcement_learning`. This project uses the [Julia programming language](https://julialang.org/), which offers much higher performance compared to Python. Find details in the [SETUP.md](SETUP.md). Logging is done with [Tensorboard](https://www.tensorflow.org/tensorboard).
 
